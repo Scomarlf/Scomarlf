@@ -1,4 +1,8 @@
 # 👋 Hi, I'm scomarlf
+
+
+#### Things I do
+✈ Maintainer of Telegram Simplified Chinese Regional Index bot
 #### Development I use
 > OS  
 ![os](https://img.shields.io/badge/-Windows-0078D6?logo=Windows&logoColor=fff&style=flat-square&labelColor=0078D6)
