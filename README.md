@@ -39,5 +39,5 @@
 ![version controll](https://img.shields.io/badge/-Subversion-809CC9?logo=Subversion&logoColor=fff&style=flat-square&labelColor=809CC9)
 ![version controll](https://img.shields.io/badge/-Visual%20SourceSafe-F88D2D?logo=V&logoColor=fff&style=flat-square&labelColor=F88D2D)
 #### You can contact me via ...
-[![contact](https://img.shields.io/badge/-@scomarlf-26A5E4?logo=Telegram&logoColor=fff&style=flat-square&labelColor=26A5E4)](https://t.me/scomarlf)
-[![contact](https://img.shields.io/badge/-i@scomarlf.com-0078D4?logo=Microsoft%20Outlook&logoColor=fff&style=flat-square&labelColor=0078D4)](mailto:i@scomarlf.com)
+Telegram: [@scomarlf](https://t.me/scomarlf)  
+Email: [i@scomarlf.com](mailto:i@scomarlf.com)
